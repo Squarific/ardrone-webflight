@@ -6,3 +6,14 @@ config.js
 node_modules/
 _site
 plugins/
+.DS_Store
+.project
+.settings
+config.js
+node_modules
+components
+bower_components
+_site
+pictures
+temp.js
+>>>>>>> 074b921d77669c94e05141344c6f07fde3a5dcf8
