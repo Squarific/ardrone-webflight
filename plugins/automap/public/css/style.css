@@ -1,0 +1,25 @@
+#automap-map {
+	position:absolute;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	z-index:100;
+	background:gray;
+}
+
+#automap-controls {
+	display:inline-block;
+}
+
+.automap-map-controls a {
+	width:auto !important;
+	padding:4px;
+	padding-left:10px;
+	padding-right:10px;
+	font-weight:800;
+}
+
+.automap-map-controls {
+	float:none !important;
+}
