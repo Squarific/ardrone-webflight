@@ -30,6 +30,8 @@ feed via webscokets and rendering in Javascript !!! Need a modern browser and CP
 * **[replay](plugins/replay)** replays a mission by injecting the data at the client level. Makes it a very
 friendly tool to code/test/debug when you can't fly. **You need to use video-png for video, not compatible with video-stream yet.**
 
+* **[automap](plugins/automap)** fly to a position on the map autonomously.
+
 
 ## Other plugins
 
